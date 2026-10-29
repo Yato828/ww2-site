@@ -1,0 +1,133 @@
+import type { PhotoCredit } from './history'
+
+/** Источники и лицензии проверены в Wikimedia Commons 29.10.2026. */
+export const additionalPhotoCredits: PhotoCredit[] = [
+  {
+    "path": "/images/dokutovich-mural.jpg",
+    "title": "Мурал в память о Галине Докутович в Гомеле",
+    "author": "Farmazon2025",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dokutovich_mural.jpg"
+  },
+  {
+    "path": "/images/stempkovskaya.png",
+    "title": "Елена Константиновна Стемпковская",
+    "author": "Автор неизвестен",
+    "license": "Общественное достояние",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:%D0%A1%D1%82%D0%B5%D0%BC%D0%BF%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F,_%D0%95%D0%BB%D0%B5%D0%BD%D0%B0_%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%BE%D0%B2%D0%BD%D0%B0_002.png",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D0%A1%D1%82%D0%B5%D0%BC%D0%BF%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F,_%D0%95%D0%BB%D0%B5%D0%BD%D0%B0_%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%BE%D0%B2%D0%BD%D0%B0_002.png"
+  },
+  {
+    "path": "/images/krapiva-1940.jpg",
+    "title": "Кондрат Крапива",
+    "author": "Автор неизвестен",
+    "license": "Общественное достояние",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Kandrat_Atrachovi%C4%8D_(Krapiva)._%D0%9A%D0%B0%D0%BD%D0%B4%D1%80%D0%B0%D1%82_%D0%90%D1%82%D1%80%D0%B0%D1%85%D0%BE%D0%B2%D1%96%D1%87_(%D0%9A%D1%80%D0%B0%D0%BF%D1%96%D0%B2%D0%B0)_(1940).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kandrat_Atrachovi%C4%8D_(Krapiva)._%D0%9A%D0%B0%D0%BD%D0%B4%D1%80%D0%B0%D1%82_%D0%90%D1%82%D1%80%D0%B0%D1%85%D0%BE%D0%B2%D1%96%D1%87_(%D0%9A%D1%80%D0%B0%D0%BF%D1%96%D0%B2%D0%B0)_(1940).jpg"
+  },
+  {
+    "path": "/images/bumazhkov.jpg",
+    "title": "Тихон Пименович Бумажков, около 1941 года",
+    "author": "Автор неизвестен",
+    "license": "Общественное достояние",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Tsikhan_Pimenavich_Bumazhkou.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tsikhan_Pimenavich_Bumazhkou.jpg"
+  },
+  {
+    "path": "/images/slutski-poias-1943.jpg",
+    "title": "Подлинная обложка сборника Анатоля Астрейко «Слуцкі пояс», издание 1943 года.",
+    "author": "Anatolʹ Astrėjka",
+    "license": "Общественное достояние",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%BB%D1%83%D1%86%D0%BA%D1%96_%D0%BF%D0%BE%D1%8F%D1%81._%D0%90._%D0%90%D1%81%D1%82%D1%80%D1%8D%D0%B9%D0%BA%D0%B0,_1943.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%BB%D1%83%D1%86%D0%BA%D1%96_%D0%BF%D0%BE%D1%8F%D1%81._%D0%90._%D0%90%D1%81%D1%82%D1%80%D1%8D%D0%B9%D0%BA%D0%B0,_1943.jpg"
+  },
+  {
+    "path": "/images/partisan-newspaper.jpg",
+    "title": "Белорусская подпольная газета «Смерть фашистам», 21 января 1944 года",
+    "author": "Смерть фашистам (newspaper)",
+    "license": "Общественное достояние",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%BC%D0%B5%D1%80%D1%82%D1%8C_%D1%84%D0%B0%D1%88%D0%B8%D1%81%D1%82%D0%B0%D0%BC.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%BC%D0%B5%D1%80%D1%82%D1%8C_%D1%84%D0%B0%D1%88%D0%B8%D1%81%D1%82%D0%B0%D0%BC.jpg"
+  },
+  {
+    "path": "/images/museum-building.jpg",
+    "title": "Современное здание Белорусского государственного музея истории Великой Отечественной войны",
+    "author": "Julian Nyča",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Minsk_Kriegsmuseum.JPG"
+  },
+  {
+    "path": "/images/museum-exhibition.jpg",
+    "title": "Современная музейная реконструкция партизанского лагеря в Минске",
+    "author": "Julian Nyča",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Minsk_Kriegsmuseum_Ausstellung_1.JPG"
+  },
+  {
+    "path": "/images/museum-victory-hall.jpg",
+    "title": "Зал Победы в музее истории Великой Отечественной войны, 2014",
+    "author": "Julian Nyča",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Minsk_Kriegsmuseum_Siegeshalle.JPG"
+  },
+  {
+    "path": "/images/family-photographs.jpg",
+    "title": "Открытый семейный фотоальбом",
+    "author": "Vyacheslav Argenberg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Black_and_white_photo_album,_Rostov-on-Don,_Russia.jpg"
+  },
+  {
+    "path": "/images/family-albums.jpg",
+    "title": "Домашние фотоальбомы",
+    "author": "Vyacheslav Argenberg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Photo_albums_in_home_environment,_Rostov-on-Don,_Russia.jpg"
+  },
+  {
+    "path": "/images/shishkin-memorial.jpg",
+    "title": "Памятник Якову Васильевичу Шишкину на Восточном кладбище Минска",
+    "author": "SerSem",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D0%9C%D0%BE%D0%B3%D0%B8%D0%BB%D0%B0_%D0%93%D0%B5%D1%80%D0%BE%D1%8F_%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%A1%D0%BE%D1%8E%D0%B7%D0%B0_%D0%AF%D0%BA%D0%BE%D0%B2%D0%B0_%D0%A8%D0%B8%D1%88%D0%BA%D0%B8%D0%BD%D0%B0.JPG"
+  },
+  {
+    "path": "/images/osipovichi-station.jpg",
+    "title": "Станция Осиповичи-1, 2007 год",
+    "author": "Artem Svetlov from Moscow, Russia",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:BcH_ChME3-2014._Osipovichi-1_station._Minsk_-_Homel_line._(25621239375).jpg"
+  },
+  {
+    "path": "/images/gymnastyorka.jpg",
+    "title": "Гимнастёрка образца 1935 года в Военно-историческом музее артиллерии в Санкт-Петербурге",
+    "author": "Автор не указан; файл загрузил George Shuklin",
+    "license": "CC BY-SA 1.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/1.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D0%93%D0%B8%D0%BC%D0%BD%D0%B0%D1%81%D1%82%D1%91%D1%80%D0%BA%D0%B0_%D0%B8_%D0%BA%D0%B0%D1%80%D0%B0%D0%B1%D0%B8%D0%BD.jpg"
+  },
+  {
+    "path": "/images/fed-camera.jpg",
+    "title": "Фотокамера ФЭД-1 выпуска 1934 года",
+    "author": "Steve46814",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:FED_1a_(1934)_-757_20-8164.jpg"
+  },
+  {
+    "path": "/images/archive-storage.jpg",
+    "title": "Стеллажи с архивными коробками",
+    "author": "BORNTHISWAYMEDIA",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Storage_vault.jpg"
+  }
+]
